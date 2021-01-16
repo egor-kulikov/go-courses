@@ -10,5 +10,5 @@ func main() {
 	var b int
 	fmt.Scan(&a)
 	b = int(math.Pow(a, 2))
-	fmt.Println(int(b))
+	fmt.Println(b)
 }
